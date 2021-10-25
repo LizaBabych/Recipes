@@ -32,7 +32,7 @@ export default function MenuReducer(
       let bucketItemsCopy = [...state.menuItems];
       const bucketItem = {
         ...action.payload,
-        countInBucket: 0,
+        countInBucket: action.payload.countInBucket - 1,
       };
       bucketItemsCopy = bucketItemsCopy.map((item) => {
         if (item.id === bucketItem.id) {
