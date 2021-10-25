@@ -1,8 +1,8 @@
 import { combineReducers } from "redux";
-import BucketReducer from "./bucket/bucket.reducer";
 import MenuReducer from "./menu/menu.reducer";
+import SearchReducer from "./search/search.reducer";
 
 export default combineReducers({
-  bucket: BucketReducer,
   menu: MenuReducer,
+  search: SearchReducer,
 });

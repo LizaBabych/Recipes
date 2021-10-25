@@ -1,8 +1,8 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
-import { SetItemToBucketAct } from "../../store/bucket/bucket.actions";
+import { SetItemToBucketAct } from "../../store/menu/menu.actions";
 import { IDish } from "../../types";
+import history from "../../history";
 
 interface IMenuProps {
   menu: IDish[];
@@ -26,32 +26,45 @@ const Menu: React.FC<IMenuProps> = ({ menu, isLoading }) => {
                 {!isLoading &&
                   menu.map((item: any) => {
                     return (
-                      <div className="small-box-c" key={item.id}>
+                      <div
+                        className="small-box-c"
+                        key={item.id}
+                        onClick={() => history.push(`/dish/${item.id}`)}
+                      >
                         <div className="small-img-b">
-                          <img className="img-dish" src={item.img} alt="#" />
+                          <img
+                            className="img-dish"
+                            src={item.img}
+                            alt="#"
+                            width={408}
+                            height={300}
+                          />
                         </div>
                         <div className="dit-t clearfix">
-                          <div className="left-ti">
+                          <div className="">
                             <h4>{item.dish}</h4>
                             <p>{item.description}</p>
                           </div>
-                          <a href="/">${item.price}</a>
                         </div>
                         <div className="prod-btn">
-                          <Link
-                            to="/bucket"
-                            onClick={() => setItemToBucket(item)}
+                          <span
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              history.push("/bucket");
+                              setItemToBucket(item);
+                            }}
                           >
                             <i className="fa fa-star" aria-hidden="true" />
                             {item.count
                               ? `${item.count} count in bucket. Add one more`
-                              : "Add to bucket"}
-                          </Link>
-                          <a href="/">
-                            <i className="fa fa-thumbs-up" aria-hidden="true" />
-                            Like this
-                          </a>
-                          <p>{item.likes} likes</p>
+                              : "Add to cart"}
+                          </span>
+                          <span className="price">${item.price}</span>
+                          {/*<a href="/">*/}
+                          {/*  <i className="fa fa-thumbs-up" aria-hidden="true" />*/}
+                          {/*  Like this*/}
+                          {/*</a>*/}
+                          {/*<p>{item.likes} likes</p>*/}
                         </div>
                       </div>
                     );

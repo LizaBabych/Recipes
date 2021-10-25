@@ -1,0 +1,472 @@
+{
+  "dishes": [
+    {
+      "id": 3842,
+      "uid": "10877145-a210-4ecb-9f69-49153257762a",
+      "price": 15,
+      "likes": 8,
+      "img": "https://live.staticflickr.com/6019/6268914044_55ef724df1_b.jpg",
+      "dish": "Ebiten maki",
+      "description": "Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",
+      "ingredient": [
+        "1 English Cucumber",
+        "8 oz. Shrimp",
+        "3 Low-Fat Cream Cheese",
+        " 1 Tbsp. Wasabi Powder",
+        "1½ cups Short-Grain Rice1",
+        "½ fl. oz. Rice Vinegar",
+        "6 Nori Wrappers",
+        "0 Chives",
+        "1  fl. oz. Sriracha",
+        "1 fl. oz. Soy Sauce - Gluten-Free"
+      ],
+      "receipt": [
+        "Prepare the Ingredients and Wasabi\nPrepare a baking sheet with foil or use a nonstick baking sheet. Thoroughly rinse produce and pat dry. Scrub and slice cucumber into long ¼\" strips. Rinse shrimp and pat dry and halve lengthwise. Cut cream cheese into 2\" long, ¼\" thick pieces. If cream cheese is too sticky to cut, place in freezer for 10 minutes to firm. Mix wasabi powder and 1 Tbsp. water together in a bowl to make the wasabi for dipping.",
+        "Cook the Rice\nBring a medium pot with rice and 2 cups of water to a soft boil over high heat. Reduce heat to low, cover, and simmer for 15-20 minutes, or until liquid is absorbed. Remove from heat and fold in the rice vinegar. Spread rice on baking sheet to cool.",
+        "Cook the Shrimp\nIn a medium pot, warm 4 cups of water over medium heat. When water comes to a low simmer, add the shrimp. Cook for 2-3 minutes. When pink and firm to the touch, remove shrimp from the water and cool with cold running water.",
+        "Roll the Maki\nPrepare a small dish of cold water. Place nori wrappers smooth side down on a cutting board. Wet fingers in dish and place a small handful of cooled sushi rice on the nori wrappers. Spread rice to cover the paper, leaving a 1\" of paper at the end of the roll. Place even amount of shrimp, chives, cream cheese, and cucumber in a straight line. Dip your fingers in the water dish and wet the end of the nori wrapper without rice with a small amount of water so the roll will close and stick together. Slowly roll the sushi, making sure to keep some tension so it rolls tight and no ingredients fall out. Repeat for second roll. We send you extra nori wrappers in the event a few break apart. This recipe makes 4+ rolls.",
+        "Plate the Dish\nUsing a sharp knife, cut maki rolls into 1\" rounds. Place maki on a plate, laying each piece against each other on an angle. Serve with wasabi, Sriracha, and soy sauces."
+      ],
+      "measurement": "1 teaspoon"
+    },
+    {
+      "id": 4560,
+      "uid": "6b28a95e-1252-40b6-89bd-ef91c4230515",
+      "price": 18,
+      "likes": 15,
+      "img": "https://hips.hearstapps.com/delish/assets/17/35/1504128527-delish-mushroom-risotto.jpg",
+      "dish": "Mushroom Risotto",
+      "description": "Breaded fried chicken with waffles, and a side of maple syrup. Fry pieces of chicken with the onion and garlic, or, stir through chunks of roasted pumpkin or butternut squash towards the end of cooking.",
+      "ingredient": [
+        "50g dried porcini mushrooms",
+        "1 vegetable stock cube",
+        "2 tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 garlic cloves, finely chopped",
+        "250g pack chestnut mushrooms, chopped",
+        "300g risotto rice, such as arborio",
+        "1 x 175ml glass white wine",
+        "25g butter",
+        "handful parsley leaves",
+        "chopped",
+        "50g parmesan or Grana Padano",
+        "freshly grated"
+      ],
+      "receipt": [
+        "Put 50g dried porcini mushrooms into a large bowl and pour over 1 litre boiling water. Soak for 20 mins, then drain into a bowl, discarding the last few tbsp of liquid left in the bowl.",
+        "Crumble 1 vegetable stock cube into the mushroom liquid, then squeeze the mushrooms gently to remove any liquid.",
+        "Heat 2 tbsp olive oil in a shallow saucepan or deep frying pan over a medium flame. Add 1 finely chopped onion and 2 finely chopped garlic cloves, then fry for about 5 mins until soft,",
+        "Stir in 250g chopped chestnut mushrooms and the dried mushrooms, season with salt and pepper and continue to cook for 8 mins until the fresh mushrooms have softened.",
+        "Tip 300g risotto rice into the pan and cook for 1 min. Pour over a 175ml glass of white wine and let it bubble to nothing so the alcohol evaporates.",
+        "Keep the pan over a medium heat and pour in a quarter of the mushroom stock. Simmer the rice, stirring often, until the rice has absorbed all the liquid.",
+        "Add about the same amount of stock again and continue to simmer and stir - it should start to become creamy, plump and tender. By the time the final quarter of stock is added, the rice should be almost cooked.",
+        "Continue stirring until the rice is cooked. If the rice is still undercooked, add a splash of water. Take the pan off the heat, add 25g butter and scatter over 25g grated parmesan or Grana Padano cheese and half a handful of chopped parsley leaves.",
+        "Cover and leave for a few mins so that the rice can take up any excess liquid as it cools a bit. Give the risotto a final stir, spoon into bowls and scatter with the remaining 25g grated cheese and the remaining chopped parsley leaves."
+      ],
+      "measurement": "1 cup"
+    },
+    {
+      "id": 6327,
+      "uid": "d944761b-943b-4a85-8174-a0a2e06b0cff",
+      "price": 8,
+      "likes": 13,
+      "img": "https://cdn.metro-online.com/nextcms/-/media/Project/MCW/UA_Metro/Blog/03-2021/Tiramisu-klasyka-ta-oryhinalnyy-retsept/Metro_shop_4594596.jpg?rev=f8c9c1943d83412eb3bf738a2e9991a5",
+      "dish": "Tiramisù",
+      "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/2 quart"
+    },
+    {
+      "id": 9268,
+      "uid": "ed4ee331-6c78-4bb1-ace3-fd316ec388da",
+      "price": 25,
+      "likes": 24,
+      "img": "https://www.thespruceeats.com/thmb/-Hq2aVGdlH43SB1R-A7UK2dCb6k=/1500x844/smart/filters:no_upscale()/best-fish-and-chips-recipe-434856-Hero-5b61b89346e0fb00500f2141.jpg",
+      "dish": "Fish and Chips",
+      "description": "Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",
+      "ingredient": [
+        "7 tablespoons (55 grams) all-purpose flour, divided",
+        "7 tablespoons (55 grams) cornstarch",
+        "1 teaspoon baking powder",
+        "Sea salt, to taste",
+        "1 pinch freshly ground black pepper, to taste",
+        "1/3 cup dark beer, cold",
+        "1/3 cup sparkling water, cold",
+        "4 (7-ounce) fish fillets (thick, white fish)",
+        "2 pounds potatoes, peeled",
+        "1 quart (1 liter) vegetable oil , or lard, for frying"
+      ],
+      "receipt": [
+        "Gather the ingredients.",
+        "Set aside 2 tablespoons of flour. In a large, roomy bowl, mix the remaining flour with the cornstarch and baking powder. Season lightly with a tiny pinch of salt and pepper.",
+        "Using a fork to whisk continuously, add the beer and the sparkling water to the flour mixture and continue mixing until you have a thick, smooth batter. Place the batter in the fridge to rest for between 30 minutes and 1 hour.",
+        "Meanwhile, cut the potatoes into a little less than 1/2-inch-thick slices, then slice these into 1/2-inch-wide chips. Place the chips into a colander and rinse under cold running water.",
+        "Place the washed chips into a pan of cold water. Bring to a gentle boil and simmer for 3 to 4 minutes.",
+        "Drain carefully through a colander, then dry with paper towels. Keep in the fridge covered with paper towels until needed.",
+        "Meanwhile, lay the fish fillets on a paper towel and pat dry. Season lightly with a little sea salt.",
+        "Heat the oil to 350 F in a deep-fat fryer or large, deep saucepan. Cook the chips a few handfuls at a time in the fat for about 2 minutes. Do not brown them. Once the chips are slightly cooked, remove them from the fat and drain. Keep to one side.",
+        "Place the 2 tablespoons of flour reserved from the batter mix into a shallow bowl. Toss each fish fillet in the flour and shake off any excess.",
+        "Dip into the batter, coating the entire fillet.",
+        "Check that the oil temperature is still 350 F. Carefully lower each fillet into the hot oil. Fry for approximately 8 minutes, or until the batter is crisp and golden, turning the fillets from time to time with a large slotted spoon.",
+        "Once cooked, remove the fillets from the hot oil and drain on paper towels. Sprinkle with salt. Cover with greaseproof paper (parchment paper) and keep hot.",
+        "Heat the oil to 400 F, then cook the chips until golden and crisp, or about 5 minutes. Remove from the oil and drain. Season with salt.",
+        "Serve immediately with the hot fish accompanied by your favorite condiment."
+      ],
+      "measurement": "1/2 teaspoon"
+    },
+    {
+      "id": 7013,
+      "uid": "2b5f7e45-7a48-4c4d-b47f-de7b7fa428a0",
+      "price": 20,
+      "likes": 23,
+      "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/19/1/WU0313H_fettuccine-alfredo-recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1580165741294.jpeg",
+      "dish": "Fettuccine Alfredo",
+      "description": "Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",
+      "ingredient": [
+        "1 lb Fettuccine Pasta",
+        "6 Tablespoons Butter",
+        "1 Garlic Clove (minced)",
+        "1 1/2 cups Heavy Cream",
+        "1/4 teaspoon Salt",
+        "1 1/4 cup Shredded Parmesan Cheese",
+        "1/4 teaspoon Pepper",
+        "2 Tablespoons Italian Parsley (optional)"
+      ],
+      "receipt": [
+        "In a large pot, heat water over high heat until boiling. Add salt to season the water. Once it is boiling, add fettuccine and cook according to package instructions.",
+        "In a large skillet or pan, heat butter over medium heat. Add minced garlic and cook for 1 to 2 minutes. Stir in heavy cream.",
+        "Let heavy cream reduce and cook for 5 to 8 minutes. Add half of the parmesan cheese to the mixture and whisk well until smooth. Keep over heat and whisk well until cheese is melted.",
+        "Save some pasta water. The pasta water is full of flavor and can be used to thin out the sauce.",
+        "Toss alfredo sauce with fettuccine pasta and add half of the parmesan cheese. Once it is tossed, garnish with the remaining parmesan cheese. Add a little pasta water if it needs to be thinned out.",
+        "Garnish with Italian parsley, if so desired."
+      ],
+      "measurement": "1/3 tablespoon"
+    },
+    {
+      "id": 9168,
+      "uid": "a94f4006-2b07-4192-94c0-5fe9ac60f450",
+      "price": 30,
+      "likes": 24,
+      "img": "https://thecornishfishmonger.co.uk/media/magefan_blog/seafood-risotto.jpg",
+      "dish": "Risotto with Seafood",
+      "description": "Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",
+      "ingredient": [
+        "2 1/2 cups fish or vegetable stock",
+        "1/3 cup olive oil",
+        "3 tablespoons unsalted butter",
+        "1 small onion, minced (about 1/2 cup)",
+        "1 1/3 cups Carnaroli or Vialone Nano rice",
+        "1/2 cup dry white wine",
+        "8 small clams, such as Manila",
+        "8 mussels, scrubbed and debearded",
+        "4 ounces squid, cleaned and cut into thin rings",
+        "4 medium sea scallops",
+        "1/2 cup peeled, crushed, and seeded plum tomatoes",
+        "1/2 cup loosely packed chopped fresh flat-leaf parsley",
+        "1/2 teaspoon chopped garlic",
+        "1 tablespoon brandy",
+        "1 tablespoon extra-virgin olive oil",
+        "1/2 cup freshly grated Parmigiano-Reggiano, optional",
+        "Salt and freshly ground black pepper",
+        "N/A freshly ground black pepper"
+      ],
+      "receipt": [
+        "In a small saucepan, warm the fish or vegetable stock. Keep warm.",
+        "In a large saucepan over moderately low heat, warm the olive oil. Add 1 tablespoon of the butter and the onion, and sauté, stirring occasionally, until tender (there should be no color), about 5 minutes. Add the rice and toast lightly for 1 minute without letting the rice or onion take on any color.",
+        "Add the wine and cook until almost completely absorbed. Add most of the stock (it should come about 1/2 inch above the rice) and bring to a simmer. Cook the risotto, stirring occasionally, until the rice has absorbed some of the liquid, about 8 minutes.",
+        "Add the clams, mussels, squid, scallops, and tomatoes, and continue cooking, stirring occasionally, until the seafood is cooked and the rice is al dente, about 6 minutes more. As the rice continues to absorb the liquid, add more as needed.",
+        "Remove the risotto from the heat and add the parsley, garlic, brandy, olive oil, Parmigiano-Reggiano, if using, and the remaining 2 tablespoons butter. Stir well to release the starches and make the risotto creamy. Season to taste with salt and pepper, and serve immediately."
+      ],
+      "measurement": "2 tablespoon"
+    },
+    {
+      "id": 3784,
+      "uid": "b072a601-8e85-42b9-af96-2924dc71659a",
+      "price": 17,
+      "likes": 34,
+      "img": "https://d1uz88p17r663j.cloudfront.net/original/1a69f85aabec474eb02d4c875c0de560_iStock-835903320.jpg",
+      "dish": "Chicken Wings",
+      "description": "Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1 cup"
+    },
+    {
+      "id": 4372,
+      "uid": "96e758c9-7e99-4907-93ae-c4210eab4e16",
+      "price": 12,
+      "likes": 45,
+      "img": "https://c.ndtvimg.com/1hkfbvu_som-tam-salad_625x300_04_September_18.jpg",
+      "dish": "Som Tam",
+      "description": "Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/3 cup"
+    },
+    {
+      "id": 5119,
+      "uid": "8ade9d9a-0313-4753-975c-e77397f25cba",
+      "price": 10,
+      "likes": 23,
+      "img": "https://www.thecuriouschickpea.com/wp-content/uploads/2017/07/buffalo-cauliflower-penne-5-480x480.jpg",
+      "dish": "Cauliflower Penne",
+      "description": "Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/3 tablespoon"
+    },
+    {
+      "id": 5955,
+      "uid": "52eafb77-e2ee-447f-bf9f-d049415f034c",
+      "price": 25,
+      "likes": 34,
+      "img": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Sticky-BBQ-ribs-3-500x500.jpg",
+      "dish": "Barbecue Ribs",
+      "description": "Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/3 tablespoon"
+    },
+    {
+      "id": 1945,
+      "uid": "3621eca1-427d-4d67-9781-463e688c76d7",
+      "price": 8,
+      "likes": 23,
+      "img": "https://mccormick.widen.net/content/z8hiapwdst/original/quick_and_easy_french_toast_new_800x800.webp",
+      "dish": "French Toast",
+      "description": "Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/3 teaspoon"
+    },
+    {
+      "id": 3353,
+      "uid": "6621780c-03d5-4114-8569-9887321c4bbb",
+      "price": 10,
+      "likes": 12,
+      "img": "https://img.taste.com.au/eUVwa-YX/taste/2016/11/thai-massaman-beef-curry-101889-1.jpeg",
+      "dish": "Massaman Curry",
+      "description": "Fresh Norwegian salmon, lightly brushed with our herbed Dijon mustard sauce, with choice of two sides.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/4 tablespoon"
+    },
+    {
+      "id": 8840,
+      "uid": "3c82ac91-5f88-41cf-bea7-4519c3e4c7b3",
+      "price": 18,
+      "likes": 43,
+      "img": "https://www.seriouseats.com/thmb/dowh6lfs4TLabT9p1EQzCdpLeMk=/500x332/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20090319-pork-souvlaki-9a80ec7534d3427c888d2d0f939540a6.jpg",
+      "dish": "Souvlaki",
+      "description": "Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/4 quart"
+    },
+    {
+      "id": 9053,
+      "uid": "7ab7850b-0176-46c8-8431-fab7be91cc69",
+      "price": 6,
+      "likes": 32,
+      "img": "https://media.istockphoto.com/photos/latin-american-breakfast-arepas-with-several-ingredients-picture-id1003089626?k=20&m=1003089626&s=612x612&w=0&h=ciKkVxC_zCx2wpSRxPtO6B-SXOyVQ9fIPe-s6XZ_5VE=",
+      "dish": "Arepas",
+      "description": "Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "1/4 quart"
+    },
+    {
+      "id": 4456,
+      "uid": "42ec7b90-7cfe-4092-bc96-86631525015f",
+      "price": 7,
+      "likes": 17,
+      "img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-2.jpg",
+      "dish": "Caprese Salad",
+      "description": "Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",
+      "ingredient": [
+        "4 large egg yolks",
+        "½ cup/100 grams granulated sugar divided",
+        "¾ cup heavy cream",
+        "1 cup/227 grams mascarpone (8 ounces)",
+        "1 ¾ cups good espresso or very strong coffee",
+        "2 tablespoons rum or cognac",
+        "2 tablespoons unsweetened cocoa powder",
+        "About 24 ladyfingers (from one 7-ounce/200-gram package)",
+        "1 to 2 ounces bittersweet chocolate, for shaving (optional)"
+      ],
+      "receipt": [
+        "Using an electric mixer in a medium bowl, whip together egg yolks and 1/4 cup/50 grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.",
+        "In the medium bowl, whip cream and remaining 1/4 cup/50 grams sugar until it creates soft-medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks. Gently fold the mascarpone mixture into the sweetened egg yolks until combined.",
+        "Combine espresso and rum in a shallow bowl and set aside.",
+        "Using a sifter, dust the bottom of a 2-quart baking dish (an 8x8-inch dish, or a 9-inch round cake pan would also work here) with 1 tablespoon cocoa powder.",
+        "Working one at a time, quickly dip each ladyfinger into the espresso mixture -- they are quite porous and will fall apart if left in the liquid too long -- and place them rounded side up at the bottom of the baking dish. Repeat, using half the ladyfingers, until you’ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps (a little space in between is O.K.). Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso-dipped ladyfingers and mascarpone mixture.",
+        "Dust top layer with remaining tablespoon of cocoa powder. Top with shaved or finely grated chocolate, if desired.",
+        "Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve."
+      ],
+      "measurement": "3 quart"
+    }
+  ]
+}

@@ -110,6 +110,8 @@ header .navbar {
 }
 
 header .navbar-default {
+  display: flex;
+  justify-content: space-between;
   background-color: transparent;
   border: none;
   margin-bottom: 0;
@@ -127,12 +129,16 @@ header .navbar-default .navbar-header {
 /*== Logo ==*/
 
 .navbar-brand {
-  float: left;
   padding: 21px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 66px;
   border-right: 1px solid #e8e8e8;
+}
+
+.form-control {
+  padding-left: 10px;
+  color: #2d2d2d;
+  font-family: 'Raleway', sans-serif;
 }
 
 .web-sh.navbar-form {
@@ -141,8 +147,6 @@ header .navbar-default .navbar-header {
   width: 72%;
   border: none;
 }
-
-.left-rs {}
 
 .navbar-brand>img {
   width: 90px;
@@ -288,12 +292,12 @@ header .navbar-default .navbar-header {
 }
 
 .right-nav {
-  float: right;
+  display: flex;
+  align-items: center;
   padding-right: 10px;
 }
 
 .login-sr {
-  float: right;
   margin-left: 15px;
 }
 
@@ -311,7 +315,7 @@ header .navbar-default .navbar-header {
   display: inline-block;
 }
 
-.login-signup ul li a {
+.login-signup ul li span {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
   color: #636363;
@@ -321,11 +325,12 @@ header .navbar-default .navbar-header {
   padding: 10px 23px;
 }
 
-.login-signup ul li a:hover {
+.login-signup ul li span:hover {
+  cursor: pointer;
   color: #1e96ff;
 }
 
-.login-signup ul li a.custom-b {
+.login-signup ul li span.custom-b {
   background: #09294c;
   border-radius: 3px;
   font-family: 'Raleway', sans-serif;
@@ -334,19 +339,19 @@ header .navbar-default .navbar-header {
   padding: 10px 23px;
 }
 
-.login-signup ul li a.custom-b:hover {
+.login-signup ul li span.custom-b:hover {
+  cursor: pointer;
   background: #1d99ff;
 }
-
-.help-r {
-  float: right;
-}
-
-.help-r {}
 
 .help-box {
   margin: 10px 0;
   border-right: 1px solid #dcdcdc;
+}
+
+.help-box ul li span, .help-box ul  {
+  display: flex;
+  align-items: center;
 }
 
 .help-box ul {
@@ -359,7 +364,7 @@ header .navbar-default .navbar-header {
   padding: 0 0 0 15px;
 }
 
-.help-box ul li a {
+.help-box ul li span {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: #636363;
@@ -368,15 +373,16 @@ header .navbar-default .navbar-header {
   line-height: 42px;
 }
 
-.help-box ul li a:hover {
+.help-box ul li span:hover {
+  cursor: pointer;
   color: #1e96ff;
 }
 
-.help-box ul li a span {
+.help-box ul li span span {
   padding-right: 10px;
 }
 
-.help-box ul li a .h-i {
+.help-box ul li span .h-i {
   padding-right: 10px;
 }
 
@@ -390,10 +396,6 @@ header .navbar-default .navbar-header {
   transition: 0.5s;
   padding: 0;
   box-shadow: 0 15px 19px -19px rgba(0, 0, 0, 0.1);
-}
-
-.nav-b {
-  float: right;
 }
 
 .nav-box {
@@ -411,7 +413,7 @@ header .navbar-default .navbar-header {
   display: inline-block;
 }
 
-.nav-box ul li a {
+.nav-box ul li span, .nav-box ul li a {
   font-family: 'Raleway', sans-serif;
   color: #636363;
   text-decoration: none;
@@ -420,7 +422,8 @@ header .navbar-default .navbar-header {
   font-weight: 400;
 }
 
-.nav-box ul li a:hover {
+.nav-box ul li span:hover, .nav-box ul li a:hover {
+  cursor: pointer;
   color: #1e96ff;
 }
 
@@ -952,10 +955,6 @@ header .navbar-default .navbar-header {
 
 .prod-i img {
   width: 100%;
-}
-
-.left-ti {
-  float: left;
 }
 
 .dit-t {
@@ -2525,6 +2524,10 @@ html .ui-button.ui-state-disabled:active {
   max-width: 30%;
 }
 
+.small-box-c:hover {
+  cursor: pointer;
+}
+
 .small-img-b img {
   width: 100%;
 }
@@ -2548,7 +2551,7 @@ html .ui-button.ui-state-disabled:active {
 }
 
 .small-box-c .prod-btn {
-  padding-top: 15px;
+  color: #2d2d2d;
 }
 
 .sk-wave {
@@ -3396,11 +3399,148 @@ html .ui-button.ui-state-disabled:active {
 .img-dish {
   height: 300px;
   object-fit: cover;
+  border-radius: 5px;
 }
 
 @media screen and (max-width: 920px) {
   .img-dish {
     height: 150px;
     object-fit: cover;
+    border-radius: 5px;
   }
+}
+
+.bucket-body {
+  width: 50%;
+  margin: 20px auto;
+  padding: 10px 40px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bucket-body h3 {
+  color: #0b294b;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.bucket-body hr {
+  width: 100%;
+  border: 2px solid #1C3247;
+}
+
+.bucket-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.bucket-dish {
+  height: 100px;
+  width: 100px !important;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.item-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 150px;
+}
+
+.item-count {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  width: 25px;
+  height: 25px;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+.add-btn {
+  background-color: #1C3247;
+}
+
+.delete-btn {
+  background-color: #df4c18;
+}
+
+.add-btn:hover, .delete-btn:hover {
+  cursor: pointer;
+}
+
+.continue-btn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 5px 15px;
+  background-color: #1C3247;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+.total-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 15px;
+}
+
+.wrapper-dish {
+  width: 50%;
+  height: 100%;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+}
+
+.wrapper-dish h4 {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.wrapper-dish p {
+  padding: 10px;
+  text-align: center;
+}
+
+.receipt {
+  text-align: left;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.receipt p {
+  margin: 0;
+  text-align: center;
+}
+
+.price {
+  font-weight: bold;
+  margin-left: 10px;
 }

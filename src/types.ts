@@ -3,7 +3,8 @@ export interface IDish {
   dish: string;
   id: number;
   img?: string;
-  ingredient: string;
+  ingredient: Array<string>;
+  receipt: Array<string>;
   likes?: number;
   measurement: string;
   price?: number;

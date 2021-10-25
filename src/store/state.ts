@@ -1,7 +1,7 @@
-import { BucketState } from "./bucket/bucket.state";
 import { MenuState } from "./menu/menu.state";
+import { SearchState } from "./search/search.state";
 
 export interface AppState {
-  bucket: BucketState;
   menu: MenuState;
+  search: SearchState;
 }

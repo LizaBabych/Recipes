@@ -3,19 +3,15 @@ import "../App.css";
 import Header from "../components/header/Header";
 import { useSelector } from "react-redux";
 import { AppState } from "../store/state";
-import Footer from "../components/footer/Footer";
 import BucketItems from "../components/bucketItems/BucketItems";
 
 const Bucket = () => {
-  const bucketItems = useSelector(
-    (state: AppState) => state.bucket.bucketItems
-  );
+  const bucketItems = useSelector((state: AppState) => state.menu.menuItems);
 
   return (
     <div className="App">
       <Header />
       <BucketItems items={bucketItems} />
-      <Footer />
     </div>
   );
 };
