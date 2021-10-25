@@ -5,7 +5,6 @@ import {
   RemoveItemFromBucketAct,
   SetItemToBucketAct,
 } from "../../store/menu/menu.actions";
-import { IDish } from "../../types";
 import { IMenuItem } from "../../store/menu/menu.state";
 
 interface IItemsProps {
@@ -15,11 +14,11 @@ interface IItemsProps {
 const BucketItems: React.FC<IItemsProps> = ({ items }) => {
   const dispatch = useDispatch();
 
-  const setItemToBucket = (item: IDish) => {
+  const setItemToBucket = (item: IMenuItem) => {
     dispatch(SetItemToBucketAct(item));
   };
 
-  const deleteItemFromBucket = (item: IDish) => {
+  const deleteItemFromBucket = (item: IMenuItem) => {
     dispatch(DeleteItemFromBucketAct(item));
   };
 
@@ -39,7 +38,7 @@ const BucketItems: React.FC<IItemsProps> = ({ items }) => {
         } else return acc;
       }, 0)
     );
-  });
+  }, [items]);
 
   return (
     <div className="bucket-body">

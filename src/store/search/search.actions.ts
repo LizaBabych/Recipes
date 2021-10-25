@@ -8,3 +8,9 @@ export const SetSearchItemAct = (searchValue: string) => {
     payload: searchValue,
   };
 };
+
+export interface ISearchAction {
+  type: SearchActions,
+  payload: string
+}
+

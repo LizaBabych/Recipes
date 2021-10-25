@@ -1,4 +1,5 @@
 import { IDish } from "../../types";
+import {IMenuItem} from "./menu.state";
 
 export enum MenuActions {
   SET_MENU_ITEMS = "[menu flow] set menu items",
@@ -21,16 +22,21 @@ export const SetItemToBucketAct = (item: IDish) => {
   };
 };
 
-export const RemoveItemFromBucketAct = (item: IDish) => {
+export const RemoveItemFromBucketAct = (item: IMenuItem) => {
   return {
     type: MenuActions.TAKE_ITEM_FROM_BUCKET,
     payload: item,
   };
 };
 
-export const DeleteItemFromBucketAct = (item: IDish) => {
+export const DeleteItemFromBucketAct = (item: IMenuItem) => {
   return {
     type: MenuActions.DELETE_ITEM_BUCKET,
     payload: item,
   };
 };
+
+export interface IMenuAction {
+  type: MenuActions,
+  payload: any
+}
